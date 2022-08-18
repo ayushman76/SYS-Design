@@ -1,0 +1,16 @@
+
+$color-red:red;
+
+ul{
+    list-style: none;
+    li{
+        display:inline-block;
+        a{
+            color:$color-red;
+            text-decoration: none;
+        }
+    }
+}
+h1{
+    color:$color-red;
+}
